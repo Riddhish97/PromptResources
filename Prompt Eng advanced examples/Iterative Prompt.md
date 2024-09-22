@@ -130,4 +130,4 @@ response = get_completion(prompt)
 print(response)
 ````
 
-### Next Topic [Summarize example]()
+### Next Topic [Summarize example](https://github.com/Riddhish97/PromptResources/blob/main/Prompt%20Eng%20advanced%20examples/Summarize%20example.md)
