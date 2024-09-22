@@ -1,6 +1,13 @@
 # PromptResources
-This Repo will have all Prompt Engineering related resource
-To learn advance prompt enginnering concept go to [basic learn.md](https://github.com/Riddhish97/PromptResources/blob/main/Basic%20guide.md) file
+
+Welcome to **PromptResources**, a comprehensive repository designed to help you master the art of prompt engineering. Whether you're just getting started or looking to refine advanced concepts, this resource is aimed at enhancing your skills in crafting effective, detailed, and versatile prompts for various use cases.
+
+### Purpose
+This repository is a collection of key concepts and principles related to prompt engineering, along with practical examples that you can directly apply. It includes techniques for tailoring prompts to specific audiences, improving clarity, managing complex tasks, and creating bias-free outputs.
+
+### How to Use
+- To explore advanced concepts, visit the [Basic Learn.md](https://github.com/Riddhish97/PromptResources/blob/main/Basic%20guide.md) file. This file contains foundational principles and progressively builds towards more advanced techniques.
+- The examples provided below showcase 20 essential prompt principles, each with a corresponding sample prompt to help you practice and refine your skills.
 
 # Overview of Key Prompt Principles
 
