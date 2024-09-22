@@ -1,5 +1,6 @@
 # PromptResources
 This Repo will have all Prompt Engineering related resource
+To learn advance prompt enginnering concept go to [basic learn.md](https://github.com/Riddhish97/PromptResources/blob/main/Basic%20guide.md) file
 
 # Overview of Key Prompt Principles
 
@@ -25,5 +26,4 @@ This Repo will have all Prompt Engineering related resource
 | 18 | Combine reasoning with examples. | Example 1: "Multiply 5 by 3. First, take 5 and multiply it by 3. The result is 15." Main Question: "Multiply 7 by 4. First, take 7 and multiply it by 4. The result is...?" |
 | 19 | Use delimiters for clarity in prompts. | Write an analysis discussing 'sustainable agriculture' in detail. |
 | 20 | Skip pleasantries for concise responses. | Explain the process of photosynthesis. |
-
 
