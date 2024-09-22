@@ -54,4 +54,6 @@ Instruct the model to think through a problem before evaluating a provided solut
 **Example:**  
 "Calculate the total cost of a project involving X number of units, then compare your solution with the following student’s answer to assess correctness."
 
+### Next Topic [Iterative Prompt]()
+
 
