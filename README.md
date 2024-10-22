@@ -1,6 +1,6 @@
-# PromptResources
+# Prompt Resources
 
-Welcome to **PromptResources**, a comprehensive repository designed to help you master the art of prompt engineering. Whether you're just getting started or looking to refine advanced concepts, this resource is aimed at enhancing your skills in crafting effective, detailed, and versatile prompts for various use cases.
+Welcome to **Prompt Resources**, a comprehensive repository designed to help you master the art of prompt engineering. Whether you're just getting started or looking to refine advanced concepts, this resource is aimed at enhancing your skills in crafting effective, detailed, and versatile prompts for various use cases.
 
 ### Purpose
 
